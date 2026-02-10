@@ -45,7 +45,7 @@
 ```bash
 apt update
 apt install git -y
-git clone https://gitlab.com/podaykirpich/tg-proxy-installer.git
+git clone https://gitlab.com/podaykirpichik/tg-proxy-installer.git
 cd tg-proxy-installer
 chmod +x install.sh
 sudo ./install.sh
