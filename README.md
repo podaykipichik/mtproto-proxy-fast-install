@@ -46,4 +46,4 @@ apt install git -y
 git clone https://github.com/podaykipichik/mtproto-proxy-fast-install.git
 cd mtproto-proxy-fast-install
 chmod +x tg-proxy-installer-silent.sh
-sh tg-proxy-installer-silent.sh
+bash tg-proxy-installer-silent.sh
