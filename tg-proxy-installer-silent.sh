@@ -122,6 +122,4 @@ echo -e "${BLUE}https://t.me/proxy?server=$IP&port=$PORT&secret=$SECRET${NC}"
 echo -e "${GREEN}=======================================${NC}"
 
 # ========= Logs =========
-if [ "$SILENT" = false ]; then
 echo -e "${BLUE}https://t.me/proxy?server=$IP&port=$PORT&secret=$SECRET${NC}"
-fi
