@@ -111,5 +111,5 @@ echo -e "${GREEN}=======================================${NC}"
 
 # ========= Logs =========
 echo
-log "Последние 20 строк логов:"
-docker logs --tail 20 tg-proxy
+log "Ссылка для подключения прокси. Нажимаем прям в телеге"
+echo -e "${BLUE}https://t.me/proxy?server=$IP&port=$PORT&secret=$SECRET${NC}"
