@@ -123,7 +123,5 @@ echo -e "${GREEN}=======================================${NC}"
 
 # ========= Logs =========
 if [ "$SILENT" = false ]; then
-  echo
-  log "Последние 20 строк логов:"
-  docker logs --tail 20 tg-proxy
+echo -e "${BLUE}https://t.me/proxy?server=$IP&port=$PORT&secret=$SECRET${NC}"
 fi
