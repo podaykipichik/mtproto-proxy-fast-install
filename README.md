@@ -43,7 +43,7 @@
 ```bash
 apt update
 apt install git -y
-git clone https://gitlab.com/podaykirpichik/mtproto-proxy-fast-install.git
+git clone https://github.com/podaykirpichik/mtproto-proxy-fast-install.git
 cd mtproto-proxy-fast-install
 chmod +x tg-proxy-install.sh
 sudo tg-proxy-install.sh
