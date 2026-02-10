@@ -3,7 +3,7 @@
 ########################################
 #        Telegram MTProto Proxy        #
 #         One-click installer          #
-#           by podaykirpichik          #
+#           Sine nomine                #
 ########################################
 
 set -e
@@ -48,7 +48,7 @@ run() {
 clear
 echo -e "${GREEN}"
 echo "======================================="
-echo " 🚀 Telegram MTProto Proxy Installer"
+echo " 🚀 Telegram MTProto Proxy Installer by sine nomine"
 echo "======================================="
 echo -e "${NC}"
 
